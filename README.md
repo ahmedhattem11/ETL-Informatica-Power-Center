@@ -1,4 +1,4 @@
-# Informatica ETL Project README
+# Informatica ETL Project
 
 ## Overview
 
@@ -26,6 +26,11 @@ This Informatica project involves Extracting, Transforming, and Loading (ETL) da
 
 ### 6. Highest and Lowest Credit Score Values
    - Find the highest and lowest credit score values.
+
+## Screenshots
+- [1. Sum of Balances for Male and Female Customers]
+- (![Screenshot 2024-04-17 174644](https://github.com/ahmedhattem11/ETL-Informatica-Power-Center/assets/87239054/ef5eab00-4b51-48c1-92fc-7b02413f5977))
+- [Physical Data Model](link_to_physical_data_model)
 
 ## Outputs
 
