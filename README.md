@@ -28,9 +28,23 @@ This Informatica project involves Extracting, Transforming, and Loading (ETL) da
    - Find the highest and lowest credit score values.
 
 ## Screenshots
-- [1. Sum of Balances for Male and Female Customers]
-- (![Screenshot 2024-04-17 174644](https://github.com/ahmedhattem11/ETL-Informatica-Power-Center/assets/87239054/ef5eab00-4b51-48c1-92fc-7b02413f5977))
-- [Physical Data Model](link_to_physical_data_model)
+### 1. Sum of Balances for Male and Female Customers
+ ![Screenshot 2024-04-17 174644](https://github.com/ahmedhattem11/ETL-Informatica-Power-Center/assets/87239054/ef5eab00-4b51-48c1-92fc-7b02413f5977)
+ 
+### 2. Number of Active Male and Female Customers
+ ![Screenshot 2024-04-17 174728](https://github.com/ahmedhattem11/ETL-Informatica-Power-Center/assets/87239054/13ed6b8b-af08-4c47-ab1b-f542bb809dcf)
+
+ ### 3. Customer Age Distribution
+ ![Screenshot 2024-04-17 174912](https://github.com/ahmedhattem11/ETL-Informatica-Power-Center/assets/87239054/a286a3d5-a5aa-4c52-ba8b-9cc15637e2a4)
+ 
+### 4. Users with Available Balance Data
+![Screenshot 2024-04-17 174950](https://github.com/ahmedhattem11/ETL-Informatica-Power-Center/assets/87239054/4e6fb19d-4bc9-456f-b9df-202926e6b6c7)
+
+### 5. Top 5 Balances
+![Screenshot 2024-04-17 175032](https://github.com/ahmedhattem11/ETL-Informatica-Power-Center/assets/87239054/ec29d678-4101-465a-a104-4a0d14174f40)
+
+### 6. Highest and Lowest Credit Score Values
+![Screenshot 2024-04-17 174835](https://github.com/ahmedhattem11/ETL-Informatica-Power-Center/assets/87239054/4571e2b2-3db6-4905-9caa-cba93a74149b)
 
 ## Outputs
 
