@@ -29,12 +29,12 @@ This Informatica project involves Extracting, Transforming, and Loading (ETL) da
 
 ## Outputs
 
-- `sum_of_balances.csv`: Sum of balances for male and female customers.
-- `active_customers.csv`: Number of active male and female customers.
-- `age_distribution_18_30.csv`, `age_distribution_30_45.csv`, `age_distribution_above_45.csv`: Age distribution tables.
-- `users_with_available_balance.csv`: Users with available balance data.
-- `top_5_balances.csv`: Information for customers with the top 5 balances.
-- `highest_lowest_credit_scores.csv`: Highest and lowest credit score values.
+- `SumBalance_M_F.txt`: Sum of balances for male and female customers.
+- `Count_Active.txt`: Number of active male and female customers.
+- `Age distribution tables`.
+- `Balance_Sorter.txt`: Users with available balance data.
+- `Rank_Balance.txt`: Information for customers with the top 5 balances.
+- `max_min_score.txt`: Highest and lowest credit score values.
 
 ## Usage
 
